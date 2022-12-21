@@ -3,5 +3,5 @@
 </a>
 <br>
 <div>
-    <a src="https://raw.githubusercontent.com/cappelchi/calcio_notebooks/main/FOOT-HOME-1_hasprem_profit_report.html"></a>
+    <a src="https://raw.githubusercontent.com/cappelchi/calcio_notebooks/main/FOOT-HOME-1_hasprem_profit_report.html" /a>
 </div>
